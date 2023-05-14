@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Games:
     - FlipFlop Solitaire: "./flipflop-solitaire"
-    - Topsoil: "./topsoil
+    - Topsoil: "./topsoil"
   Author's home: "https://seesteve.xyz"
 
 ################
