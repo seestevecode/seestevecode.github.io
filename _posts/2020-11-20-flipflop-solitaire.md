@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FlipFlop Solitaire
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle:
 cover-img: 
 thumbnail-img: 
 share-img: 
