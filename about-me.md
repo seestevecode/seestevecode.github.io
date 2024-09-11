@@ -4,6 +4,8 @@ title: About me
 subtitle: I think and I code things
 ---
 
+[@seestevecode@fosstodon.org](https://fosstodon.org/@seestevecode){rel="me"}
+
 I am interested in the following technologies:
 
 - functional programming
