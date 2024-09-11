@@ -4,7 +4,7 @@ title: About me
 subtitle: I think and I code things
 ---
 
-<a href="https://fosstodon.org/@seestevecode" rel="me">@seestevecode@fosstodon.org</a>
+<a href="https://fosstodon.org/@seestevecode" rel="me">seestevecode on fosstodon.org</a>
 
 I am interested in the following technologies:
 
